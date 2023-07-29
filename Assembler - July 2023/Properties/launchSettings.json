@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Assembler - July 2023": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\saige.kumar\\Downloads\\AssemblyTest.txt"
+    }
+  }
+}
